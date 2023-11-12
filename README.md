@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, mundo! 👋
 
-<!--
-**Joaovitor8708/Joaovitor8708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎓 Estou estudando no programa CDD 4.0.
+- 💻 Atualmente estou estudando Java, Python e MySql.
+- 📫 Você pode me contatar em: vitorsantanalins@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Estatísticas do GitHub
+!Estatísticas do GitHub de Joaovitor8708
+
+## 🛠️ Linguagens e Ferramentas
+- Java
+- Python
+- MySql
+- Git
+- PHP
