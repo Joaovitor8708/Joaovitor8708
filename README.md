@@ -29,6 +29,3 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
     </td>
   </tr>
 </table>
-
-## 👀 Visualizações
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=Joaovitor8708)
