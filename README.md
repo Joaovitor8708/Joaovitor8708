@@ -16,7 +16,7 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
       </a>
     </td>
     <td style="width:33.33%;">
-      <h3 align="center">🛠️ Linguagens e Ferramentas</h3>
+      <h3 align="center">🛠️ Linguagens</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor8708&layout=compact&langs_count=8&icons=true&theme=radical" alt="Linguagens Mais Usadas de Joaovitor8708">
       </a>
