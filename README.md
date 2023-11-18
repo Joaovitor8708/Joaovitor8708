@@ -19,3 +19,5 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 - Pycharm
 - VScode
 
+## 👀 Visualizações
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=Joaovitor8708)
