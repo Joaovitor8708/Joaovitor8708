@@ -14,4 +14,6 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 - Java
 - Python
 - MySql
+- Pycharm
+- VScode
 
