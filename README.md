@@ -13,11 +13,8 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joaovitor8708&theme=dark&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🛠️ Linguagens e Ferramentas
-- Java
-- Python
-- MySql
-- Pycharm
-- VScode
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor8708&layout=compact&langs_count=8&icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 👀 Visualizações
 ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=Joaovitor8708)
