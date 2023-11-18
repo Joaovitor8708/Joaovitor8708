@@ -22,7 +22,7 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
       </a>
     </td>
     <td style="width:33.33%;">
-      <h3 align="center">GitHub Streak</h3>
+      <h3 align="center">🔥 GitHub Streak</h3>
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Joaovitor8708&theme=radical&hide_border=true&border_radius=1&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak de Joaovitor8708">
       </a>
