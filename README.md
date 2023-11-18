@@ -16,15 +16,15 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
       </a>
     </td>
     <td style="width:33.33%;">
-      <h3 align="center">GitHub Streak</h3>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Joaovitor8708&theme=dark&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak de Joaovitor8708">
-      </a>
-    </td>
-    <td style="width:33.33%;">
       <h3 align="center">🛠️ Linguagens e Ferramentas</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor8708&layout=compact&langs_count=8&icons=true&theme=radical" alt="Linguagens Mais Usadas de Joaovitor8708">
+      </a>
+    </td>
+    <td style="width:33.33%;">
+      <h3 align="center">GitHub Streak</h3>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Joaovitor8708&theme=dark&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak de Joaovitor8708">
       </a>
     </td>
   </tr>
