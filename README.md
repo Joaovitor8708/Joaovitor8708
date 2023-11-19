@@ -30,7 +30,7 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
   </tr>
 </table>
 
-<h2 align="center">💻 Tecnologias:</h2>
+<h3 align="center">💻 Tecnologias</h3>
 
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
@@ -50,9 +50,3 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
     </tr>
   </table>
 </div>
-
-
-## Ferramentas:
-[![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)](https://code.visualstudio.com/)
-[![PyCharme](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pt-br/pycharm/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/?r=1)
