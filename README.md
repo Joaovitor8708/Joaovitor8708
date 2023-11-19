@@ -1,16 +1,16 @@
-<body>
-    <h1>Olá, mundo! 👋</h1>
-    <p>Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.</p>
+<div align="center">
 
-    <h2>🚀 Sobre mim</h2>
-    <ul>
-      <li>🎓 Estou estudando no programa CDD 4.0.</li>
-      <li>💻 Atualmente estou estudando Java, Python e MySql.</li>
-      <li>📫 Você pode me contatar em: <a href="mailto:vitorsantanalins@gmail.com">vitorsantanalins@gmail.com</a></li>
-    </ul>
-  </div>
-</body>
-  
+# Olá, mundo! 👋
+
+Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
+
+## 🚀 Sobre mim
+- 🎓 Estou estudando no programa CDD 4.0.
+- 💻 Atualmente estou estudando Java, Python e MySql.
+- 📫 Você pode me contatar em: [vitorsantanalins@gmail.com](mailto:vitorsantanalins@gmail.com)
+
+</div>
+
  <table style="width:100%; table-layout: fixed;">
   <tr>
     <td style="width:33.33%;">
