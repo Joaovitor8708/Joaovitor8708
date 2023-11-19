@@ -1,3 +1,12 @@
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats ">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=sameckmatheus&show&layout=compact&icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameckmatheus&layout=compact&langs_count=8&icons=true&theme=radical" />
+  </a>
+</div>
+
 # Olá, mundo! 👋
 
 Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
@@ -31,9 +40,9 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 </table>
 
 #### Estudando no momento:
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 
 #### Ferramentas:
 [![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)](https://code.visualstudio.com/)
