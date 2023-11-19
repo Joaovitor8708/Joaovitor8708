@@ -6,8 +6,8 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 - 🎓 Estou estudando no programa CDD 4.0.
 - 💻 Atualmente estou estudando Java, Python e MySql.
 - 📫 Você pode me contatar em: vitorsantanalins@gmail.com
-
-## <table style="width:100%; table-layout: fixed;">
+##
+ <table style="width:100%; table-layout: fixed;">
   <tr>
     <td style="width:33.33%;">
       <h3 align="center">⚡ Estatísticas do GitHub</h3>
