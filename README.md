@@ -30,7 +30,7 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
   </tr>
 </table>
 
-<h2 align="center">💻 Favourite Tools and Technologies:</h2>
+<h2 align="center">💻 Tecnologias:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
