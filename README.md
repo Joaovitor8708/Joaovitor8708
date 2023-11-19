@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu Perfil</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-    }
-
-    #about-me {
-      max-width: 600px;
-      margin: 0 auto;
-    }
-
-    h1 {
-      color: #3498db;
-    }
-
-    h2 {
-      color: #2ecc71;
-    }
-
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-
-    li {
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-
 <body>
-  <div id="about-me">
     <h1>Olá, mundo! 👋</h1>
     <p>Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.</p>
 
