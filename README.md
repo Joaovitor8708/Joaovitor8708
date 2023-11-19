@@ -1,6 +1,6 @@
 # Olá, mundo! 👋
 
-<p>Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.</p>
+Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 
 ## 🚀 Sobre mim
 - 🎓 Estou estudando no programa CDD 4.0.
