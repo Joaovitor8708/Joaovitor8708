@@ -10,7 +10,7 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 - 📫 Você pode me contatar em: [vitorsantanalins@gmail.com](mailto:vitorsantanalins@gmail.com)
 
 </div>
-
+##
 <table align="center">
   <tr>
     <td style="width:100%; text-align: center;">
