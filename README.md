@@ -9,7 +9,7 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 - 💻 Atualmente estou estudando Java, Python e MySql.
 - 📫 Você pode me contatar em: [vitorsantanalins@gmail.com](mailto:vitorsantanalins@gmail.com)
 
-</div>
+## </div>
 
 <table align="center">
   <tr>
