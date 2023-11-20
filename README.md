@@ -2,7 +2,7 @@
 
 # Olá, mundo! 👋
 
-Seja bem-vindo ao meu espaço no GitHub! Sou João Vitor, um entusiasta da tecnologia em constante aprendizado. Aqui, compartilho meu percurso na programação, explorando o vasto mundo do desenvolvimento de software. 
+- Seja bem-vindo ao meu espaço no GitHub! Sou João Vitor, um entusiasta da tecnologia em constante aprendizado. Aqui, compartilho meu percurso na programação, explorando o vasto mundo do desenvolvimento de software. 
 
 ## 🚀 Sobre mim
 - Mergulhando nas profundezas do desenvolvimento de software. Atualmente, estou aprimorando minhas habilidades em Java, Python e MySQL.
