@@ -11,7 +11,7 @@ Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
 
 </div>
 
-## <table align="center">
+<table align="center">
   <tr>
     <td style="width:100%; text-align: center;">
       <h3>⚡ Estatísticas do GitHub</h3>
