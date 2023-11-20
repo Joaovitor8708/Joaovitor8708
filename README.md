@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Joaovitor8708&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Joaovitor8708">
   </a>
 
- ## <h3>💻 Tecnologias</h3>
+ ## <h3>💻 Linguagens</h3>
 
   <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
