@@ -2,11 +2,11 @@
 
 # Olá, mundo! 👋
 
-Meu nome é João Vitor e sou um desenvolvedor apaixonado por tecnologia.
+Seja bem-vindo ao meu espaço no GitHub! Sou João Vitor, um entusiasta da tecnologia em constante aprendizado. Aqui, compartilho meu percurso na programação, explorando o vasto mundo do desenvolvimento de software. 
 
 ## 🚀 Sobre mim
-- 🎓 Estou estudando no programa CDD 4.0.
-- 💻 Atualmente estou estudando Java, Python e MySql.
+- Mergulhando nas profundezas do desenvolvimento de software. Atualmente, estou aprimorando minhas habilidades em Java, Python e MySQL.
+- A sede de conhecimento me motiva a enfrentar desafios e a buscar soluções inovadoras..
 - 📫 Você pode me contatar em: [vitorsantanalins@gmail.com](mailto:vitorsantanalins@gmail.com)
 
 ## </div>
