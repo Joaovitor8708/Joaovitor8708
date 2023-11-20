@@ -14,13 +14,14 @@
 <table align="center">
   <tr>
     <td style="width:100%; text-align: center;">
-      <h3 align="center">⚡ Estatísticas do GitHub</h3>
+      <h3>⚡ Estatísticas do GitHub</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Joaovitor8708&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Joaovitor8708">
       </a>
     </td>
   </tr>
 </table>
+
 
 ## <h3 align="center">💻 Tecnologias</h3>
 
