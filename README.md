@@ -11,8 +11,8 @@
 
 ## </div>
 
-align="center"
-  <tr align="center">
+<table align="center">
+  <tr>
     <td style="width:100%; text-align: center;">
       <h3>⚡ Estatísticas do GitHub</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,6 +20,9 @@ align="center"
       </a>
     </td>
   </tr>
+</table>
+
+  
 
 
 ## <h3 align="center">💻 Tecnologias</h3>
