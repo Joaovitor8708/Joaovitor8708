@@ -9,7 +9,7 @@
   - 💻 Atualmente estou estudando Java, Python e MySql.
   - 📫 Você pode me contatar em: [vitorsantanalins@gmail.com](mailto:vitorsantanalins@gmail.com)
 
-  
+  ##
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Joaovitor8708&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Joaovitor8708">
   </a>
