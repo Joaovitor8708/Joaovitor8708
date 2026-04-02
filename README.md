@@ -1,44 +1,72 @@
 <div align="center">
 
-# Olá, mundo! 👋 Eu sou João Vitor
+# 👋 Olá, eu sou o João Vitor
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joaovitor8708&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-status)
+💻 Desenvolvedor Back-end | ☕ Java | 🗄️ Banco de Dados | 🚀 Evoluindo todos os dias
 
----
-
-### 🚀 Sobre Mim
-Sou um desenvolvedor focado em construir soluções robustas utilizando **Java** e **Sistemas de Banco de Dados**. Atualmente, atuo na intersecção entre o desenvolvimento de software e a gestão de dados em ambientes corporativos.
-
-* 💼 **Trainee em Sistemas ERP**: Experiência prática com suporte técnico especializado, manutenção de sistemas e manipulação de banco de dados SQL para resolução de problemas reais.
-* 💻 **Back-end Developer**: Desenvolvendo projetos em Java, com foco em arquitetura limpa e integração de dados.
-* 🎯 **Objetivo**: Aprimorar constantemente minhas habilidades em Spring Boot e otimização de queries SQL.
-* 📫 Contato: [vitorsantanalins@gmail.com](mailto:vitorsantanalins@gmail.com)
-
----
-
-### 💻 Stack de Tecnologias
-
-#### **Foco Principal (Back-end & Banco de Dados)**
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/detroit-delivery/logos/master/sql.png">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-</div>
-
-#### **Outras Linguagens & Ferramentas**
-<div style="display: inline_block">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ---
 
-### 📊 Estatísticas de Linguagens
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor8708&layout=compact&langs_count=7&theme=radical" />
-</p>
+## 🚀 Sobre mim
+
+Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em construir soluções práticas e eficientes.
+
+Atualmente trabalho com sistemas ERP, lidando diretamente com problemas reais de clientes — isso me deu uma visão muito forte de **negócio + tecnologia**, algo que levo para todos os meus projetos.
+
+💼 Experiência atual:
+- Suporte técnico em sistemas ERP  
+- Análise e correção de problemas em banco de dados (SQL)  
+- Manipulação e manutenção de dados em ambiente corporativo  
+
+💡 Como desenvolvedor:
+- Foco em **Java back-end**
+- Gosto de entender o problema antes de sair codando
+- Busco escrever código simples, organizado e funcional
+
+🎯 Objetivo:
+- Me tornar um desenvolvedor **especialista em Java + Spring Boot**
+- Aprimorar desempenho em **SQL e modelagem de dados**
+- Trabalhar com sistemas robustos e escaláveis
+
+---
+
+## 🛠️ Tecnologias que uso
+
+### 💻 Back-end & Banco de Dados (principal foco)
+- ☕ Java  
+- 🌱 Spring Boot  
+- 🗄️ SQL / MySQL  
+
+### ⚙️ Outras ferramentas
+- Git & GitHub  
+- Angular (básico)  
+- Python e PHP (contato prático)  
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaovitor8708&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor8708&layout=compact&theme=radical)
 
 </div>
+
+---
+
+## 📫 Contato
+
+📧 Email: vitorsantanalins@gmail.com  
+
+---
+
+## ⚡ Um pouco mais sobre mim
+
+- Gosto de aprender fazendo (mão na massa mesmo)
+- Curto resolver problemas reais, não só teoria
+- Sempre buscando evoluir um pouco todos os dias
+
+---
