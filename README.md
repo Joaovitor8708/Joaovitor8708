@@ -49,9 +49,9 @@ Atualmente trabalho com sistemas ERP, lidando diretamente com problemas reais de
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaovitor8708&show_icons=true&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joaovitor8708&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitor8708&layout=compact&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joaovitor8708&theme=github_dark)
 
 </div>
 
