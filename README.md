@@ -47,8 +47,6 @@ Meu foco é me tornar **desenvolvedor back-end Java**, escrevendo código simple
 
 | Projeto | Descrição |
 |---|---|
-| **[Abrigo Santa Luzia](https://abrigosantaluzia.com)** | Site em produção |
-| **[Loja Caiana](https://lojacaiana.com.br)** | Site em produção |
 | **[Escola APGF](https://escolaapgf.nexf.com.br/)** | Site em produção |
 
 ---
